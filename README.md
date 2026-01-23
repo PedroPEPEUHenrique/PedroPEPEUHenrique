@@ -27,7 +27,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/snake.svg" alt="Snake animation" />
+<h2 align="center"></h2>
+
 
 ###
 
@@ -64,6 +65,7 @@
 </div>
 
 ###
+<h2 align="center"></h2>
 
 ###
 
