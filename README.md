@@ -39,4 +39,4 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz&width={width})
+
