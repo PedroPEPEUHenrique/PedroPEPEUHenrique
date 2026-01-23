@@ -40,3 +40,7 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz&unique={true|1|on|yes})
