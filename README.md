@@ -1,21 +1,35 @@
 
+<h2 align="center">Pedro Henrique | Support Analyst & Aspiring Developer (ADS)</h2>
+
 ###
 
 <p align="left">I am passionate about solving problems and optimizing processes through technology. Currently working as a Support Analyst, I have built a solid foundation in conflict resolution, technical troubleshooting, and a deep understanding of end-user pain points. I am currently focusing my career transition toward software development, pursuing a degree in Systems Analysis and Development (ADS) with a practical emphasis on Web and Mobile applications.</p>
-<br>
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
-
-###
-
-<h5 align="left"> Creating bugs since: 2023.<br> I'm currently learning: Web & Mobile Development (Node.js/React) and AI Integration.<br> Goals: Becoming a specialist in Web/Mobile solutions.<br> Fun fact: Passionate about F1 and high-performance football teams history.</h5>
 
 ###
 
 <h2 align="center"></h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<h6 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web & Mobile Development (Node.js/React) and AI Integration.<br>🎯 Goals Becoming a specialist in Web/Mobile solutions.<br>🎲 Fun fact: Passionate about F1 and high-performance football teams history.</h6>
+
+###
+
+<img src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
