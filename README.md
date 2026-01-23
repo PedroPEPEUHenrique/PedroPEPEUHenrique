@@ -23,7 +23,7 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web & Mobile Development (Node.js/React) and AI Integration.<br>🎯 Goals Becoming a specialist in Web/Mobile solutions.<br>🎲 Fun fact: Passionate about F1 and high-performance football teams history.</h6>
+<h6 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web & Mobile Development (Node.js/React) and AI Integration.<br>🎯 Goals: Becoming a specialist in Web/Mobile solutions.<br>🎲 Fun fact: Passionate about F1 and high-performance football teams history.</h6>
 
 ###
 
