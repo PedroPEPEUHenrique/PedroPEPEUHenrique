@@ -1,7 +1,7 @@
 
 ###
 
-<p align="left">My name is Pedro Henrique and I'm a Software Developer in training, from Goiás, Brazil. Passionate about AI and system architecture. Building projects with Python, React, and N8N.</p>
+<p align="left">I am passionate about solving problems and optimizing processes through technology. Currently working as a Support Analyst, I have built a solid foundation in conflict resolution, technical troubleshooting, and a deep understanding of end-user pain points. I am currently focusing my career transition toward software development, pursuing a degree in Systems Analysis and Development (ADS) with a practical emphasis on Web and Mobile applications.</p>
 
 ###
 
@@ -41,31 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
 
 ###
 
