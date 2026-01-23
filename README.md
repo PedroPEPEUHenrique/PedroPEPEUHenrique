@@ -68,5 +68,7 @@
 <h2 align="center"></h2>
 
 ###
+<h2 align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz)
+</h2>
