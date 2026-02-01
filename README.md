@@ -61,8 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" height="40" alt="n8n logo"  />
-  <img width="12" />
-  <img src="https://logo.svgcdn.com/logos/supabase.png" height="40" alt="supabase logo"  />
   
 </div>
 
