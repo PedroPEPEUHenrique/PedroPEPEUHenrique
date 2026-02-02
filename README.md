@@ -98,7 +98,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/output/snake.svg" alt="Snake animation" />
 
 ###
 
