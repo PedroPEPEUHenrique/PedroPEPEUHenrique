@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor em formação e entusiasta de tecnologia de **Aparecida de Goiânia, GO**. Atualmente, atuo como **Analista de Suporte** e estou focado em migrar e crescer na área de Desenvolvimento de Software.
+Sou um desenvolvedor em formação e entusiasta de tecnologia de **Goiânia, GO**. Atualmente, atuo como **Analista de Suporte** e estou focado em migrar e crescer na área de Desenvolvimento de Software.
 
 Minha jornada combina a teoria acadêmica com a prática técnica, buscando sempre entender como as coisas funcionam "por baixo do capô", desde arquitetura de software até a lógica de games.
 
