@@ -15,7 +15,7 @@
 
 ###
 
-<h6 align="left">🚀 Sobre Mim<br><br>De Goiânia para o mundo do desenvolvimento. Como Analista de Suporte, desenvolvi um olhar crítico para resolução de problemas e estabilidade de sistemas. Hoje, aplico esse background no estudo de Arquitetura de Software e Lógica de Programação. Meu foco é evoluir na stack Web/Mobile, priorizando performance e boas práticas de desenvolvimento.<br><br>🎓 Graduação: Cursando Análise e Desenvolvimento de Sistemas (ADS).<br>🎓 Técnico: Cursando Desenvolvimento Web & Mobile.<br>💼 Atualmente: Estagiário de Suporte.<br>🎯 Foco: Desenvolvimento Web, Mobile e Automação Digital.<br>🏎️ Hobbie: Grande fã de Fórmula 1 e games.</h6>
+<h4 align="left">🚀 Sobre Mim<br><br>De Goiânia para o mundo do desenvolvimento. Como Analista de Suporte, desenvolvi um olhar crítico para resolução de problemas e estabilidade de sistemas. Hoje, aplico esse background no estudo de Arquitetura de Software e Lógica de Programação. Meu foco é evoluir na stack Web/Mobile, priorizando performance e boas práticas de desenvolvimento.<br><br>🎓 Graduação: Cursando Análise e Desenvolvimento de Sistemas (ADS).<br>🎓 Técnico: Cursando Desenvolvimento Web & Mobile.<br>💼 Atualmente: Estagiário de Suporte.<br>🎯 Foco: Desenvolvimento Web, Mobile e Automação Digital.<br>🏎️ Hobbie: Grande fã de Fórmula 1 e games.</h4>
 
 ###
 
