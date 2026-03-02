@@ -1,120 +1,65 @@
-<h2 align="center">Pedro Henrique | Support Analyst & Aspiring Developer (ADS)</h2>
-
-###
+# Olá, eu sou Pedro Henrique! 👋
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dev.pepeu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPEPEUHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&theme=dracula"/>
 </div>
 
-###
+### 🚀 Sobre Mim
 
-<h2 align="left"></h2>
+Sou um desenvolvedor em formação e entusiasta de tecnologia de **Aparecida de Goiânia, GO**. Atualmente, atuo como **Analista de Suporte** e estou focado em migrar e crescer na área de Desenvolvimento de Software.
 
-###
+Minha jornada combina a teoria acadêmica com a prática técnica, buscando sempre entender como as coisas funcionam "por baixo do capô", desde arquitetura de software até a lógica de games.
 
-<h6 align="left">I am passionate about solving problems and optimizing processes through technology. Currently working as a Support Analyst, I have built a solid foundation in conflict resolution, technical troubleshooting, and a deep understanding of end-user pain points. I am currently focusing my career transition toward software development, pursuing a degree in Systems Analysis and Development (ADS) with a practical emphasis on Web and Mobile applications.</h6>
+- 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- 🎓 **Técnico:** Cursando Desenvolvimento Web & Mobile.
+- 💼 **Atualmente:** Estagiário de Suporte na Celetus.
+- 🎯 **Foco:** Desenvolvimento Web, Lógica de Programação e Arquitetura de Software.
+- 🏎️ **Hobbie:** Grande fã de Fórmula 1 e games.
 
-###
+---
 
-<h5 align="left">- 📚 ADS: 5º período<br>- 📚 Téc. Dev Web & Mobile: 4º período</h5>
+### 🛠️ Minhas Tecnologias
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h1 align="center">🔨TECNOLOGIAS & FERRAMENTAS🔧</h1>
-
-###
-
-<h6 align="left">Linguagens🤓</h6>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<h6 align="left">Frameworks💀</h6>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-</div>
-
-###
-
-<h6 align="left">Banco de Dados👾</h6>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-</div>
-
-###
-
-<h6 align="left">Design e Plataformas👀</h6>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" height="30" alt="n8n logo"  />
-  <img width="20" />
-  <img src="https://brandlogos.net/wp-content/uploads/2025/07/supabase_icon-logo_brandlogos.net_nmv8t-512x521.png" height="30" alt="supabase logo"  />
+<div align="left">
+  <h4>Linguagens & Core:</h4>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
+  <h4>Ferramentas & Versionamento:</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-###
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPEPEUHenrique&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPEPEUHenrique&theme=dracula" alt="PedroPEPEUHenrique" />
 </div>
 
-###
+---
 
-###
-<h2 align="center"></h2>
+### 🎧 Ouvindo Agora
 
-###
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz" alt="Spotify Recently Played" />
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=btl5gnkf0fq9qxv5wyc246dwz)
+---
+
+<div align="center">
+ <i>"A persistência é o caminho do êxito."</i>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
