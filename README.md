@@ -27,7 +27,7 @@
 
 ###
 
-<h5 align="left">Linguagens & Core:</h5>
+<h5 align="left">Linguagens & Frameworks:</h5>
 
 ###
 
