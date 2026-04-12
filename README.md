@@ -24,11 +24,11 @@
 
 ## Sobre mim
 
-<img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="190" style="margin-right: 20px; border-radius: 12px;" />
+<img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="180" style="margin-right: 20px; border-radius: 12px;" />
 
-Desenvolvedor Web & Mobile com background em suporte técnico — experiência que me deu uma visão analítica e orientada à solução de problemas reais. Hoje aplico esse olhar no desenvolvimento de aplicações modernas, com foco em boas práticas, arquitetura limpa e código sustentável.
+Desenvolvedor Web & Mobile com background em suporte técnico, experiência que me deu uma visão analítica voltada à solução de problemas reais. Aplico esse olhar no desenvolvimento de aplicações modernas com foco em boas práticas, arquitetura limpa e código sustentável.
 
-Busco entregar soluções que combinem **performance**, **usabilidade** e **qualidade técnica** — seja para projetos pessoais ou demandas de clientes.
+Meu objetivo é entregar soluções que unem **performance**, **usabilidade** e **qualidade técnica**, tanto em projetos pessoais quanto nas demandas de clientes.
 
 ```text
 🎓  ADS · Técnico em Desenvolvimento Web & Mobile
