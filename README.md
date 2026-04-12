@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-<img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="180" style="margin-right: 20px; border-radius: 12px;" />
+<img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="190" style="margin-right: 20px; border-radius: 12px;" />
 
 Desenvolvedor Web & Mobile com background em suporte técnico, experiência que me deu uma visão analítica voltada à solução de problemas reais. Aplico esse olhar no desenvolvimento de aplicações modernas com foco em boas práticas, arquitetura limpa e código sustentável.
 
