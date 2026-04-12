@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Henrique</h1>
 
 <p align="center">
-  Desenvolvedor Web & Mobile em formação &nbsp;·&nbsp; Goiânia, GO
+  <em>Desenvolvedor Web & Mobile &nbsp;·&nbsp; Goiânia, GO</em>
 </p>
 
 <p align="center">
@@ -22,20 +22,24 @@
   </a>
 </p>
 
-<br>
+---
 
-Desenvolvedor em formação com background em suporte técnico — o que me deu um olhar analítico para resolução de problemas e estabilidade de sistemas. Aplico essa experiência no desenvolvimento de aplicações web e mobile, com foco em boas práticas e arquitetura de software.
+## Sobre mim
+
+Desenvolvedor Web & Mobile com background em suporte técnico — experiência que me deu uma visão analítica e orientada a solução de problemas. Hoje aplico esse olhar no desenvolvimento de aplicações modernas, com foco em boas práticas, arquitetura limpa e código sustentável.
+
+Busco entregar soluções que combinem **performance**, **usabilidade** e **qualidade técnica** — seja para projetos pessoais ou demandas de clientes.
 
 ```text
-🎓  ADS (Análise e Desenvolvimento de Sistemas) · Técnico em Desenvolvimento Web & Mobile
+🎓  ADS · Técnico em Desenvolvimento Web & Mobile
 💼  Estagiário de Suporte → migrando para desenvolvimento
-📚  Estudando agora: Arquitetura Limpa · Next.js · Automação com n8n
-🏎️  F1 enthusiast e gamer nas horas vagas
+📚  Estudando: Arquitetura Limpa · Next.js · Automação com n8n
+🏎️  F1 enthusiast & gamer nas horas vagas
 ```
 
-<br>
+---
 
-## Tecnologias
+## Stack
 
 **Linguagens**
 
@@ -48,10 +52,10 @@ Desenvolvedor em formação com background em suporte técnico — o que me deu 
 **Frameworks & Bibliotecas**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Banco de Dados**
 
@@ -60,7 +64,7 @@ Desenvolvedor em formação com background em suporte técnico — o que me deu 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Ferramentas**
+**Ferramentas & Ambiente**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -69,17 +73,21 @@ Desenvolvedor em formação com background em suporte técnico — o que me deu 
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
 
-<br>
+---
 
-## Estatísticas
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&theme=dark&hide_border=true&border_radius=6&langs_count=6&card_width=320" height="155" alt="Linguagens mais usadas" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=PedroPEPEUHenrique&locale=pt_BR&mode=daily&theme=dark&hide_border=true&border_radius=6" height="155" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=PedroPEPEUHenrique&locale=pt_BR&mode=daily&theme=dark&hide_border=true&border_radius=6" height="155" alt="GitHub Streak" />
 </div>
 
-<br>
+---
+
+## Vamos conversar?
+
+Se você tem um projeto em mente ou quer bater um papo sobre tecnologia, pode me chamar em qualquer um dos canais acima. Estou sempre aberto a novas oportunidades e colaborações! 🚀
+
+---
 
 <details>
   <summary>🎧 Ouvindo agora</summary>
