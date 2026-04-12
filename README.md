@@ -1,40 +1,38 @@
-<h1 align="center">Pedro Henrique</h1>
+![Banner](./banner.png)
 
-<p align="center">
-  <em>Desenvolvedor Web & Mobile &nbsp;·&nbsp; Goiânia, GO</em>
-</p>
+# Pedro Henrique
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/dev.pepeu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="SEU_DISCORD_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="22" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Gmail" />
-  </a>
-</p>
+**Desenvolvedor Web & Mobile** &nbsp;·&nbsp; Goiânia, GO
+
+<a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/dev.pepeu/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram" />
+</a>
+&nbsp;
+<a href="SEU_DISCORD_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="22" alt="Discord" />
+</a>
+&nbsp;
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Gmail" />
+</a>
 
 ---
 
 ## Sobre mim
 
-Desenvolvedor Web & Mobile com background em suporte técnico — experiência que me deu uma visão analítica e orientada a solução de problemas. Hoje aplico esse olhar no desenvolvimento de aplicações modernas, com foco em boas práticas, arquitetura limpa e código sustentável.
+Desenvolvedor Web & Mobile com background em suporte técnico — experiência que me deu uma visão analítica e orientada à solução de problemas reais. Hoje aplico esse olhar no desenvolvimento de aplicações modernas, com foco em boas práticas, arquitetura limpa e código sustentável.
 
 Busco entregar soluções que combinem **performance**, **usabilidade** e **qualidade técnica** — seja para projetos pessoais ou demandas de clientes.
 
 ```text
 🎓  ADS · Técnico em Desenvolvimento Web & Mobile
-💼  Estagiário de Suporte → migrando para desenvolvimento
+💼  Estagiário de Suporte → migrando para desenvolvimento full-time
 📚  Estudando: Arquitetura Limpa · Next.js · Automação com n8n
-🏎️  F1 enthusiast & gamer nas horas vagas
+🏎️  Entusiasta de automobilismo (F1), games e esportes de combate
 ```
 
 ---
@@ -85,7 +83,15 @@ Busco entregar soluções que combinem **performance**, **usabilidade** e **qual
 
 ## Vamos conversar?
 
-Se você tem um projeto em mente ou quer bater um papo sobre tecnologia, pode me chamar em qualquer um dos canais acima. Estou sempre aberto a novas oportunidades e colaborações! 🚀
+Se você tem um projeto em mente, quer automatizar processos ou precisa de um desenvolvedor comprometido com qualidade — pode me chamar. Estou sempre aberto a novas oportunidades e colaborações! 🚀
+
+<a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
+  <img src="https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" />
+</a>
+&nbsp;
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Envia%20um%20e--mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
+</a>
 
 ---
 
