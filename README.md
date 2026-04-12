@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/banner.png)
 
-# Pedro Henrique &nbsp;·&nbsp; Desenvolvedor Web & Mobile
+<h1 align="center">Pedro Henrique &nbsp;·&nbsp; Desenvolvedor Web & Mobile</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
