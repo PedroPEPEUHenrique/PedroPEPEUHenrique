@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/banner.png)
 
 # Pedro Henrique
 
@@ -24,6 +24,8 @@
 
 ## Sobre mim
 
+<img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="180" style="margin-right: 20px; border-radius: 12px;" />
+
 Desenvolvedor Web & Mobile com background em suporte técnico — experiência que me deu uma visão analítica e orientada à solução de problemas reais. Hoje aplico esse olhar no desenvolvimento de aplicações modernas, com foco em boas práticas, arquitetura limpa e código sustentável.
 
 Busco entregar soluções que combinem **performance**, **usabilidade** e **qualidade técnica** — seja para projetos pessoais ou demandas de clientes.
@@ -34,6 +36,8 @@ Busco entregar soluções que combinem **performance**, **usabilidade** e **qual
 📚  Estudando: Arquitetura Limpa · Next.js · Automação com n8n
 🏎️  Entusiasta de automobilismo (F1), games e esportes de combate
 ```
+
+<br clear="left" />
 
 ---
 
