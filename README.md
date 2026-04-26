@@ -36,7 +36,7 @@ Meu objetivo é entregar soluções que unem **performance**, **usabilidade** e 
 ```text
 🎓  ADS · Técnico em Desenvolvimento Web & Mobile
 💼  Estagiário de Suporte → migrando para desenvolvimento full-time
-📚  Estudando: Arquitetura Limpa · Next.js · Automação com n8n
+📚  Estudando: Arquitetura Limpa · Cybersecurity · Automação com n8n
 🏎️  Entusiasta de automobilismo (F1), games e esportes de combate
 ```
 
