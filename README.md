@@ -98,6 +98,6 @@
                                           <summary>🎧 Ouvindo agora</summary>
                                             <br>
                                               <div align="center">
-                                                  [SPOTIFY_TRACK]
+                                                  <img src="https://vercel.app{Date.now()}" alt="Spotify Recently Played" />
                                                   </div>
                                                   </details>
