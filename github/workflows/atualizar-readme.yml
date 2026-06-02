@@ -1,0 +1,27 @@
+name: Atualizar Status do Spotify
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Executa a cada hora automaticamente
+  workflow_dispatch:     # Permite que você execute manualmente pelo GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Executar script de atualização
+        run: node atualizar-spotify.js
+
+      - name: Commit e Push das alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto: Atualizado o status do Spotify no README"
+          branch: main
