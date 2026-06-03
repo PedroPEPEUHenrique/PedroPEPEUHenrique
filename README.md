@@ -93,3 +93,11 @@ Meu objetivo é entregar soluções que unem **performance**, **usabilidade** e 
 Se você tem um projeto em mente, quer automatizar processos ou precisa de um desenvolvedor comprometido com qualidade, pode me chamar. Estou sempre aberto a novas oportunidades e colaborações! 🚀
 
 ---
+
+<details>
+  <summary>🎧 Ouvindo agora</summary>
+  <br>
+  <div align="center">
+    <img src="https://vercel.app(date +%s)" alt="Spotify Recently Played" />
+  </div>
+</details>
