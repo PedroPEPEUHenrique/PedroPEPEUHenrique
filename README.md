@@ -94,10 +94,3 @@ Se você tem um projeto em mente, quer automatizar processos ou precisa de um de
 
 ---
 
-<details>
-  <summary>🎧 Ouvindo agora</summary>
-  <br>
-  <div align="center">
-    <img src="https://vercel.app(date +%s)" alt="Spotify Recently Played" />
-  </div>
-</details>
