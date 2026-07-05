@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 <img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="180" style="margin-right: 20px; border-radius: 12px;" />
 
