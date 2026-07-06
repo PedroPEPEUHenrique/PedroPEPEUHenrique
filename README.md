@@ -87,13 +87,6 @@ Trabalho com o ecossistema **JavaScript/TypeScript** (React, Next.js, Node.js) e
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroPEPEUHenrique&locale=pt_BR&mode=daily&theme=dark&hide_border=true&border_radius=6" height="155" alt="GitHub Streak" />
-</div>
 
 ---
 
