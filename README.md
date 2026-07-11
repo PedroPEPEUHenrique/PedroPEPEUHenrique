@@ -26,7 +26,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/PedroPEPEUHenrique/PedroPEPEUHenrique/main/cerebro.png" width="180" style="margin-right: 20px; border-radius: 12px;" />
 
-Desenvolvedor Web & Mobile, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Técnico em Desenvolvimento Web & Mobile**. Minha trajetória começou no suporte técnico, onde desenvolvi uma visão analítica e orientada à resolução de problemas reais — habilidade que hoje aplico diretamente na construção de software.
+Desenvolvedor Full Stack, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Técnico em Desenvolvimento Web & Mobile**. Minha trajetória começou no suporte técnico, onde desenvolvi uma visão analítica e orientada à resolução de problemas reais, habilidade que hoje aplico diretamente na construção e manutenção de software.
 
 Trabalho com o ecossistema **JavaScript/TypeScript** (React, Next.js, Node.js) e **Python (Django)**, sempre com foco em boas práticas, arquitetura limpa e código sustentável. Meu objetivo é entregar soluções que unam **performance**, **usabilidade** e **qualidade técnica**.
 
