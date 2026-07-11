@@ -90,7 +90,7 @@ Trabalho com o ecossistema **JavaScript/TypeScript** (React, Next.js, Node.js) e
 
 ---
 
-## 💬 Vamos conversar?
+## Vamos conversar?
 
 Se você tem um projeto em mente, quer automatizar processos ou precisa de um desenvolvedor comprometido com qualidade, pode me chamar. Estou sempre aberto a novas oportunidades e colaborações! 🚀
 
