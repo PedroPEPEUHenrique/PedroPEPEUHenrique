@@ -35,7 +35,7 @@ Trabalho com o ecossistema **JavaScript/TypeScript** (React, Next.js, Node.js) e
 ```text
 🎓  Graduando em ADS · Técnico em Desenvolvimento Web & Mobile
 💼  Suporte Técnico → em transição para desenvolvimento full-time
-📚  Estudando: Arquitetura Limpa · Cybersecurity · Cloud Computing
+📚  Foco em Arquitetura Limpa, Cybersecurity e Cloud Computing
 🏎️  Fora do código: automobilismo (F1), games e esportes de combate
 ```
 
