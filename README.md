@@ -54,7 +54,6 @@ Trabalho com o ecossistema **JavaScript/TypeScript** (React, Node.js) e **Python
 
 ## Estatísticas
 
-<img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api?username=PedroPEPEUHenrique&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
 
 <br/>
