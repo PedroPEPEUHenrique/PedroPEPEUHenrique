@@ -21,11 +21,9 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Técnico em Desenvolvimento Web & Mobile**. Minha trajetória começou no suporte técnico, onde desenvolvi uma visão analítica e orientada à resolução de problemas reais — habilidade que hoje aplico diretamente na construção e manutenção de software.
+Desenvolvedor Full Stack, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Técnico em Desenvolvimento Web & Mobile**. Minha trajetória começou no suporte técnico, onde desenvolvi uma visão analítica e orientada à resolução de problemas reais, essa habilidade aplico diretamente na construção e manutenção de software.
 
-Trabalho com o ecossistema **JavaScript/TypeScript** (React, Next.js, Node.js) e **Python (Django)**, sempre com foco em boas práticas, arquitetura limpa e código sustentável. Meu objetivo é entregar soluções que unam **performance**, **usabilidade** e **qualidade técnica**.
-
-<br clear="left" />
+Trabalho com o ecossistema **JavaScript/TypeScript** (React, Node.js) e **Python (Django)**, sempre com foco em boas práticas, arquitetura escalável e código limpo. Meu objetivo é entregar soluções que unam **performance**, **usabilidade** e **qualidade técnica**. 
 
 
 <div align="center">
