@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Pedro%20Henrique&fontSize=52&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Desenvolvedor%20Web%20%26%20Mobile&descSize=18&descAlignY=58" />
 
 <div align="center">
 
