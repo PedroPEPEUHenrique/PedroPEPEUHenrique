@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Django" alt="Typing SVG" />
@@ -23,10 +22,9 @@
 
 Desenvolvedor Full Stack, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** e **Técnico em Desenvolvimento Web & Mobile**. Minha trajetória começou no suporte técnico, onde desenvolvi uma visão analítica e orientada à resolução de problemas reais, essa habilidade aplico diretamente na construção e manutenção de software.
 
-Trabalho com o ecossistema **JavaScript/TypeScript** (React, Node.js) e **Python (Django)**, sempre com foco em boas práticas, arquitetura escalável e código limpo. Meu objetivo é entregar soluções que unam **performance**, **usabilidade** e **qualidade técnica**. 
+Trabalho com o ecossistema **JavaScript/TypeScript** (React, Node.js) e **Python (Django)**, sempre com foco em boas práticas, arquitetura escalável e código limpo. Meu objetivo é entregar soluções que unam **performance**, **usabilidade** e **qualidade técnica**.
 
-
-<div align="center">
+---
 
 ## Stack
 
@@ -73,16 +71,14 @@ Trabalho com o ecossistema **JavaScript/TypeScript** (React, Node.js) e **Python
 <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 
-</div>
-
 ---
 
 <div align="center">
 
 ## Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPEPEUHenrique&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api?username=PedroPEPEUHenrique&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
 
 <br/>
 <br/>
