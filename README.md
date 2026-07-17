@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Django" alt="Typing SVG" />
+## Pedro Henrique | Full Stack Developer
 
 <br/>
 
