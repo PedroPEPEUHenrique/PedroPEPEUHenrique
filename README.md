@@ -20,11 +20,9 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack eficiente para transformar desafios complexos em soluções digitais eficientes e seguras. Atualmente, consolido minha formação acadêmica como graduando em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Desenvolvimento Web & Mobile.
+Desenvolvedor Full Stack focado em transformar desafios complexos em soluções digitais eficientes, escaláveis e seguras. Graduando em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Desenvolvimento Web & Mobile, atuo de ponta a ponta no ciclo de vida do software, combinando entrega rápida de aplicações com arquitetura robusta. 
 
-Minha trajetória na tecnologia teve início no suporte técnico, uma escola fundamental onde desenvolvi uma mentalidade altamente analítica, facilidade para diagnosticar gargalos sob pressão e um foco obstinado na resolução de problemas reais. Hoje, trago essa bagagem para a engenharia de software, utilizando a visão de quem já esteve na ponta para construir sistemas intuitivos e robustos.
-
-No dia a dia, atuo de ponta a ponta no desenvolvimento de aplicações utilizando o ecossistema JavaScript/TypeScript (React, Node.js, React Native) e Python (Django), além de integração com bancos de dados e automação de fluxos de trabalho. Minha abordagem de desenvolvimento é sempre pautada em boas práticas de mercado, arquitetura de software escalável, práticas de desenvolvimento de software seguro e escrita de código limpo (Clean Code). Meu objetivo é entregar soluções de alto impacto que unam de forma harmoniosa usabilidade, performance e rigor técnico.
+Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node.js, React Native) e Python (Django), integrada a práticas sólidas de Clean Code e bancos de dados relacionais e não relacionais. Com forte direcionamento para a cultura DevOps e DevSecOps, tenho experiência na estruturação de pipelines de CI/CD utilizando Jenkins, conteinerização de aplicações com Docker e automação de fluxos de trabalho, garantindo deploys ágeis, consistentes e alinhados às melhores práticas de segurança da informação. Busco aplicar essa visão estratégica e rigor técnico na construção de produtos de alto impacto que unam performance, usabilidade e excelência em engenharia de software.
 
 ---
 
