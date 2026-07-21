@@ -22,7 +22,7 @@
 
 Desenvolvedor Full Stack focado em transformar desafios complexos em soluções digitais eficientes, escaláveis e seguras. Graduando em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Desenvolvimento Web & Mobile, atuo de ponta a ponta no ciclo de vida do software, combinando entrega rápida de aplicações com arquitetura robusta. 
 
-Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node.js, React Native) e Python (Django), integrada a práticas sólidas de Clean Code e bancos de dados relacionais e não relacionais. Com forte direcionamento para a cultura DevOps e DevSecOps, tenho experiência na estruturação de pipelines de CI/CD utilizando Jenkins, conteinerização de aplicações com Docker e automação de fluxos de trabalho, garantindo deploys ágeis, consistentes e alinhados às melhores práticas de segurança da informação. Busco aplicar essa visão estratégica e rigor técnico na construção de produtos de alto impacto que unam performance, usabilidade e excelência em engenharia de software.
+Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node.js, React Native) e Python (Django), integrada a práticas sólidas de Clean Code e arquitetura evolutiva. Com forte direcionamento para a cultura DevOps e DevSecOps Contínuo, tenho experiência na estruturação de pipelines de CI/CD utilizando Jenkins, conteinerização de aplicações com Docker e automação de fluxos de trabalho, garantindo deploys ágeis, consistentes e alinhados às melhores práticas de segurança da informação. Busco aplicar essa visão estratégica e rigor técnico na construção de produtos de alto impacto que unam performance, usabilidade e excelência em engenharia de software.
 
 ---
 
