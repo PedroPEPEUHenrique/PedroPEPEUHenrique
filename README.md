@@ -54,8 +54,7 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 ## Estatísticas
 
-<img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
-
+<img height="200em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=20&size_weight=0.5&count_weight=0.5" />
 <br/>
 
 <br/>
