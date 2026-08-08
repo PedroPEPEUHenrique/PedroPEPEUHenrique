@@ -69,7 +69,7 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 ## Vamos conversar?
 
-Se você tem um projeto em mente, quer automatizar processos ou precisa de um desenvolvedor comprometido com qualidade, pode me chamar. Estou sempre aberto a novas oportunidades e colaborações.
+Se você tem um projeto em mente ou precisa de um desenvolvedor comprometido com qualidade, pode me chamar. Estou sempre aberto a novas oportunidades e colaborações.
 
 <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
   <img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
