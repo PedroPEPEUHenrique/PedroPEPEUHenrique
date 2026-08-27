@@ -54,12 +54,12 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 ## Estatísticas
 
-<img height="200" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=20&size_weight=0.5&count_weight=0.5" />
-<br/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=20&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPEPEUHenrique&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" />
+
 </div>
 
 ---
@@ -76,4 +76,4 @@ Se você tem um projeto em mente ou precisa de um desenvolvedor comprometido com
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
