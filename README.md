@@ -59,8 +59,7 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPEPEUHenrique&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPEPEUHenrique&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" />
 </div>
 
 ---
