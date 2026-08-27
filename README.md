@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack focado em transformar desafios complexos em soluções digitais eficientes, escaláveis e seguras. Graduando em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Desenvolvimento Web & Mobile, atuo de ponta a ponta no ciclo de vida do software, combinando entrega rápida de aplicações com arquitetura robusta. 
+Desenvolvedor Full Stack focado em transformar desafios complexos em soluções digitais eficientes, escaláveis e seguras. Graduando em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Desenvolvimento Web & Mobile, atuo de ponta a ponta no ciclo de vida do software, combinando entrega rápida de aplicações com arquitetura robusta.
 
 Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node.js, React Native) e Python (Django), integrada a práticas sólidas de Clean Code e arquitetura evolutiva. Com forte direcionamento para a cultura DevOps e DevSecOps contínuo, tenho experiência na estruturação de pipelines de CI/CD utilizando Jenkins, conteinerização de aplicações com Docker e automação de fluxos de trabalho, garantindo deploys ágeis, consistentes e alinhados às melhores práticas de segurança da informação. Busco aplicar essa visão estratégica e rigor técnico na construção de produtos de alto impacto que unam performance, usabilidade e excelência em engenharia de software.
 
@@ -54,13 +54,8 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 ## Estatísticas
 
-<!-- O parâmetro &v=1 no final força o GitHub a recarregar a imagem -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPEPEUHenrique&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=20&size_weight=0.5&count_weight=0.5&v=1" />
-
-<br/>
-
-<!-- O parâmetro &v=1 no final força o GitHub a recarregar a imagem -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPEPEUHenrique&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es&v=1" />
+<img src="./metrics.languages.svg" alt="Linguagens" />
+<img src="./metrics.calendar.svg" alt="Contribuições" />
 
 </div>
 
@@ -73,7 +68,7 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 Se você tem um projeto em mente ou precisa de um desenvolvedor comprometido com qualidade, pode me chamar. Estou sempre aberto a novas oportunidades e colaborações.
 
 <a href="https://www.linkedin.com/in/pedropepeuhenrique/" target="_blank">
-  <img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
 </a>
 
 </div>
