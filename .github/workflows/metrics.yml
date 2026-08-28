@@ -29,12 +29,6 @@ jobs:
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          extras_css: |
-            body, .background { background: #000000 !important; }
-            h2, h2 * { color: #ffffff !important; }
-            .field, .field * { color: #cccccc !important; }
-            a, a * { color: #ffffff !important; }
-            svg { background: #000000 !important; }
 
       # Calendário de contribuições (heatmap isométrico)
       - name: Calendário
@@ -46,9 +40,3 @@ jobs:
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          extras_css: |
-            body, .background { background: #000000 !important; }
-            h2, h2 * { color: #ffffff !important; }
-            .field, .field * { color: #cccccc !important; }
-            a, a * { color: #ffffff !important; }
-            svg { background: #000000 !important; }
