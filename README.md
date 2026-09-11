@@ -54,9 +54,10 @@ Minha stack principal abrange o ecossistema TypeScript e JavaScript (React, Node
 
 ## Estatísticas
 
-<img src="./metrics.languages.svg" alt="Linguagens" />
-<img src="./metrics.calendar.svg" alt="Contribuições" />
+<div align="center">
 
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=luizjardel&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
 </div>
 
 ---
